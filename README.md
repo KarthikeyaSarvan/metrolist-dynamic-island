@@ -15,7 +15,7 @@ This is a **modified version of Metrolist** (GPLv3) with a **spoofed package nam
 
 ## 🛠️ What This Does
 
-- ✅ Spoofs package name to `com.spotify.music`.
+- ✅ Spoofs package to `com.spotify.music`.
 - 🔓 Unlocks Aqua Dynamics animations when music plays.
 - 🔄 App icon and name changed to look like Spotify.
 - ⚙️ All functionality still comes from original Metrolist.
