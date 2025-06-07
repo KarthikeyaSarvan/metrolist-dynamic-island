@@ -2,7 +2,7 @@
 ---
 
 
-**🚨 Important: Read This Entire README Before Installing**
+**🚨 Important: This is only for users who are NOT using Spotify and want to use an Open-Soruce Alternative but miss the Aqua Dynamics with Spotfy. Read This Entire README Before Installing.**
 
 
 
@@ -15,18 +15,18 @@ This is a **modified version of Metrolist** (GPLv3) with a **spoofed package nam
 
 ## 🛠️ What This Does
 
-- ✅ Spoofs package name to `com.spotify.music`
-- 🔓 Unlocks Aqua Dynamics animations when music plays
-- 🔄 App icon and name changed to look like Spotify
-- ⚙️ All functionality still comes from original Metrolist
+- ✅ Spoofs package name to `com.spotify.music`.
+- 🔓 Unlocks Aqua Dynamics animations when music plays.
+- 🔄 App icon and name changed to look like Spotify.
+- ⚙️ All functionality still comes from original Metrolist.
 
 ---
 
 ## 📱 Requirements
 
-- Android with **ColorOS 15+** or **OxygenOS 15+**
-- Uninstall real Spotify (if installed)
-- Disable **auto-updates** for Spotify on Play Store
+- Android with **ColorOS 15+** or **OxygenOS 15+**.
+- Uninstall real Spotify (if installed).
+- Disable **auto-updates** for Spotify on Play Store.
 
 ---
 
