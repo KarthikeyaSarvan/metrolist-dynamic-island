@@ -4,7 +4,7 @@
 
 ## 🚨 Important:
 - Read This Entire README Before Installing.
-- This is only for users who are NOT using Spotify and want to use an Open-Source Alternative but miss the Aqua Dynamics functionality with music a app on ColorOS or OxygenOS without root. 
+- This is only for users who are NOT using Spotify and want to use an Open-Source Alternative but miss the Aqua Dynamics functionality with a music app on ColorOS or OxygenOS without root. 
 
 
 
