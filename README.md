@@ -51,7 +51,6 @@ This is a **modified version of Metrolist** (GPLv3) with a **spoofed package nam
 
 ## 📁 File Contents
 
-- `/smali/` – Decompiled code with package spoofing
 - `AndroidManifest.xml` – Modified for `com.spotify.music`
 - `metrolist_spotify.apk` – Rebuilt and signed APK
 - `LICENSE` – GPL v3.0 from the original repo
