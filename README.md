@@ -2,7 +2,7 @@
 ---
 
 
-**🚨 Important: This is only for users who are NOT using Spotify and want to use an Open-Soruce Alternative but miss the Aqua Dynamics with Spotify on ColorOS or OxygenOS. Hence, read This Entire README Before Installing.**
+**🚨 Important: This is only for users who are NOT using Spotify and want to use an Open-Source Alternative but miss the Aqua Dynamics with Spotify on ColorOS or OxygenOS. Hence, read This Entire README Before Installing.**
 
 
 
