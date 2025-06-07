@@ -30,7 +30,7 @@ This is a **modified version of Metrolist** (GPLv3) with a **spoofed package nam
 
 ## 📥 How to Install
 
-1. Go to the **Releases** tab.
+1. Go to the **[Releases](https://github.com/KarthikeyaSarvan/metrolist-dynamic-island/releases)** tab.
 2. Download the latest `metrolist-spotify.apk`.
 3. Install using your file manager.
 4. If you get a **Play Protect warning**, tap:
