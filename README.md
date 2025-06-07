@@ -1,8 +1,10 @@
-# 🚨 Important: Read This Entire README Before Installing
+# 🎵 Metrolist (Aqua Dynamics Spoofed Spotify Package)
 
 ---
 
-# 🎵 Metrolist (Aqua Dynamics Spoofed Spotify Package)
+# 🚨 Important: Read This Entire README Before Installing
+
+---
 
 This is a **modified version of Metrolist** (GPLv3) with a **spoofed package name (`com.spotify.music`)** to **trigger Aqua Dynamics (aka Dynamic Island)** on devices running **ColorOS 15 and OxygenOS 15**.
 
