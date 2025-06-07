@@ -1,8 +1,8 @@
 # 🎵 Metrolist (Aqua Dynamics Spoofed Spotify Package)
+---
 
 
-
-# 🚨 Important: Read This Entire README Before Installing
+**🚨 Important: Read This Entire README Before Installing**
 
 
 
